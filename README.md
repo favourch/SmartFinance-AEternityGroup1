@@ -11,7 +11,7 @@ MSMEs in Sub-saharan Africa (particularly Nigeria) are heavily dependent on soft
 
 **SmartFinance**,  is a blockchain based transparent market place where the SMSEs and consumers could implement a co-operative business method. Here, the SMSEs can list the potential products and the expected profits on his business on the distributed public ledger.
 
-Smart contracts can provide a better agreement between the farmers and consumers in case of discrepancies arising with regard to natural calamities, climate changes or other crop loss situations
+Smart contracts can provide a better agreement between the MSMEs and consumers in case of discrepancies.
 
 
 
