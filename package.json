@@ -1,0 +1,26 @@
+{
+  "name": "aeternitygroup1",
+  "version": "1.0.0",
+  "description": "SmartFinance - A Decentraliszed Microfinance System for MSMEs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/favourch/AEternityGroup1.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "Favour Chukwuedo, AbdulMalik Salau, Oni Faith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/favourch/AEternityGroup1/issues"
+  },
+  "homepage": "https://github.com/favourch/AEternityGroup1#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-generator": "^4.16.0"
+  }
+}
