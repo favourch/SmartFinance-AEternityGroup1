@@ -9,7 +9,7 @@ MSMEs in Sub-saharan Africa (particularly Nigeria) are heavily dependent on soft
 
 ## Our solution to the problem:
 
-**SmartFinance**,  is a blockchain based transparent market place where the SMSEs and consumers could implement a co-operative business method. Here, the SMSEs can list the potential products and the expected profits on his business on the distributed public ledger.
+**SmartFinance**,  is a blockchain based transparent market place where the MSMEs and consumers could implement a co-operative business method. Here, the SMSEs can list the potential products and the expected profits on his business on the distributed public ledger.
 
 Smart contracts can provide a better agreement between the MSMEs and consumers in case of discrepancies.
 
