@@ -1,4 +1,4 @@
-# SmartFinance
+# SmartFinance v1.0.0
 
 This repository contains the code for SmartFinance - AEternity Hackathon Dapp for Group 1 - (Favour Chukwuedo, AbdulMalik Salau & Oni Faith), coded using **Truffle** and **Solidity**. The backend blockchain is a private Ethereum network setup using **Geth(go-ethereum)** and the interactions are made possible by **Web3** javascript library.
 
