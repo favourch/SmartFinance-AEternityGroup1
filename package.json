@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/favourch/AEternityGroup1#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-generator": "^4.16.0"
   }
 }
